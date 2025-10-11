@@ -20,7 +20,6 @@ Uma **AMI (Amazon Machine Image)** é uma imagem pré-configurada que contém as
 
 5. **Tipos de AMI** → Amazon Linux, Windows e outras distribuições, escolhidas conforme os requisitos da aplicação.  
 
-<img src="img/ami-ec2.png" alt="Exemplo AMI EC2" width="500"/>
 
 ---
 
@@ -35,8 +34,7 @@ O **Amazon Elastic Block Store (EBS)** fornece **armazenamento em bloco confiáv
 - Criação de novos volumes a partir de snapshots existentes  
 - Aumento da durabilidade dos dados  
 - Mecanismo de **backup e restauração** para volumes EBS
-
-<img src="img/snapshot-ebs.png" alt="Snapshot com EBS" width="600"/>  
+ 
 
 ---
 
