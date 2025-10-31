@@ -10,7 +10,7 @@
 
 ---
 
-## 📘 Conteúdo do Repositório
+## Conteúdo do Repositório
 
 | Arquivo | Descrição |
 |----------|------------|
